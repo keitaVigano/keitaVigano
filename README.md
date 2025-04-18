@@ -2,9 +2,7 @@
 
 Como, Italy | viganojacopo01@gmail.com | [LinkedIn](https://linkedin.com/in/keita-jacopo-vigano)
 
-I'm a Data Science graduate and currently a Master’s student at the University of Milano-Bicocca. I’m passionate about building robust and interpretable data-driven solutions — from machine learning models and backend engineering to knowledge graphs and AI-driven forecasting tools.
-
-I love exploring the intersection of **data engineering**, **AI**, and **research innovation**. 
+I'm a Data Science graduate and currently a Master’s student at the University of Milano-Bicocca. I’m passionate about building robust and interpretable data-driven solutions; from machine learning models and backend engineering to knowledge graphs and AI-driven forecasting tools.
 
 ---
 
@@ -21,6 +19,7 @@ I love exploring the intersection of **data engineering**, **AI**, and **researc
 
 #### 💼 Work Experience
 
+- 💻 **Research Intern – Bicocca/European Investment Bank** (January 2025 - May 2025)  
 - 💻 **Backend Software Engineer Intern – WebRatio** (March 2024 - August 2024)  
 
 ---
