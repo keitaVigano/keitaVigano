@@ -27,34 +27,34 @@ I love exploring the intersection of **data engineering**, **AI**, and **researc
 
 #### 🎓 Education
 
-- 🎓 **M.Sc. in Data Science** – University of Milano-Bicocca  
+- **M.Sc. in Data Science** – University of Milano-Bicocca  
   *(October 2024 - ongoing)*  
 
-- 🎓 **B.Sc. in Statistics** – University of Milano-Bicocca  
+- **B.Sc. in Statistics** – University of Milano-Bicocca  
   *(110/110 with honors – Oct 2021 - March 2024)*  
 
 ---
 
 #### 🚀 Projects
 
-- 🛡️ [**Phishing Detection with Machine Learning**](https://github.com/keitaVigano/phishing-url)  
+-  [**Phishing Detection with Machine Learning**](https://github.com/keitaVigano/phishing-url)  
   Detected phishing URLs using Random Forest (AUC: 0.9891, Sensitivity: 97.32%).
 
-- 🌐 [**UniMIB Research Graph**](https://github.com/saraborello/UniMIB-ResearchGraph)  
+-  [**UniMIB Research Graph**](https://github.com/saraborello/UniMIB-ResearchGraph)  
   Built a Neo4j graph DB to map authors and publications from the Computer Science Department.
 
-- 🧬 [**CassadagApp – EPFL Hackathon Winner**](https://lauzhack.com/projects.html)  
+-  [**CassadagApp – EPFL Hackathon Winner**](https://lauzhack.com/projects.html)  
   First place at Lauzhack 2024 (Bristol-Myers Squibb Challenge).  
   
 
-- 🏦 [**Billionaire Country Hotspots**](https://github.com/saraborello/billionaire-country-hotspots)  
+-  [**Billionaire Country Hotspots**](https://github.com/saraborello/billionaire-country-hotspots)  
   Exploratory analysis of the countries with the highest billionaire concentrations.  
   [📊 View Tableau Dashboard](https://public.tableau.com/app/profile/keita.jacopo.vigan./viz/BillionairesCountryHotspots/Dashboard1)
 
-- 🤖 [**AI Compliance Advisor**](https://github.com/keitaVigano/ai_compliance_advisor)  
+-  [**AI Compliance Advisor**](https://github.com/keitaVigano/ai_compliance_advisor)  
   A chatbot that supports AI compliance workflows and requirements using regulatory checklists and natural language queries.
 
-- 🌍 [**CO₂ Emissions Statistical Model**](https://github.com/keitaVigano/emissioni_co2)  
+-  [**CO₂ Emissions Statistical Model**](https://github.com/keitaVigano/emissioni_co2)  
   Fully developed statistical model analyzing factors influencing CO₂ emissions with a well-structured report.
 
 ---
