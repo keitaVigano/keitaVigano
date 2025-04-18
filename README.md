@@ -1,6 +1,6 @@
 ### Hi there, I'm Keita Jacopo Viganò 👋
 
-📍 Como, Italy | 📧 viganojacopo01@gmail.com | [LinkedIn](https://linkedin.com/in/keita-jacopo-vigano)
+Como, Italy | viganojacopo01@gmail.com | [LinkedIn](https://linkedin.com/in/keita-jacopo-vigano)
 
 I'm a Data Science graduate and currently a Master’s student at the University of Milano-Bicocca. I’m passionate about building robust and interpretable data-driven solutions — from machine learning models and backend engineering to knowledge graphs and AI-driven forecasting tools.
 
@@ -56,8 +56,6 @@ I love exploring the intersection of **data engineering**, **AI**, and **researc
 
 - 🌍 [**CO₂ Emissions Statistical Model**](https://github.com/keitaVigano/emissioni_co2)  
   Fully developed statistical model analyzing factors influencing CO₂ emissions with a well-structured report.
-
---
 
 ---
 
