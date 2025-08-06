@@ -19,7 +19,6 @@ I'm a Data Science graduate and currently a Master’s student at the University
 
 #### 💼 Work Experience
 
-- 💻 **Research Intern – Bicocca/European Investment Bank** (January 2025 - May 2025)  
 - 💻 **Backend Software Engineer Intern – WebRatio** (March 2024 - August 2024)  
 
 ---
